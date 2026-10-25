@@ -1,0 +1,68 @@
+{
+  "page": {
+    "Margin": "0.5in",
+    "Header-Distance": "0.5in",
+    "Footer-Distance": "0.5in",
+    "Content-Gap-After-Header": "5px",
+    "Page-Size": "Letter",
+    "Background-Color": "#FFFFFF"
+  },
+  "logo": {
+    "Logo1-Width": "2.72in",
+    "Logo1-Height": "0.82in",
+    "Logo2-Width": "1.40in",
+    "Logo2-Height": "0.50in",
+    "Alignment": "Justify-Content: Space Between",
+    "Align-Items": "Bottom"
+  },
+  "title": {
+    "Title-Size": 15,
+    "Title-Color": "#000000",
+    "Title-Font": "Times New Roman",
+    "Title-Align": "center",
+    "Title-Property": "Bold Underline",
+    "Pre-Title-Space": "6pt"
+  },
+  "student_details": {
+    "Label-Font": "Times New Roman",
+    "Label-Size": 15,
+    "Label-Color": "#000000",
+    "Label-Property": "Bold",
+    "Value-Font": "Times New Roman",
+    "Value-Size": 15,
+    "Value-Color": "#000000",
+    "Value-Property": "Regular",
+    "Row-Spacing-After": 8,
+    "Title-To-Menu-Spacing": 5,
+    "Row-Alignment": "Justify-Content: Space Between",
+    "Blank-Marker": "&assuicblank"
+  },
+  "heading_section": {
+    "Heading-Size": 15,
+    "Heading-Color": "#000000",
+    "Heading-Font": "Times New Roman",
+    "Heading-Align": "start",
+    "Heading-Property": "Bold",
+    "Pre-Heading-Space": "5pt",
+    "First-Heading-Space": "15pt",
+    "Post-Heading-Space": "1px"
+  },
+  "body_section": {
+    "Body-Size": 14,
+    "Body-Color": "#000000",
+    "Body-Font": "Times New Roman",
+    "Body-Align": "justify",
+    "Body-Property": "Regular",
+    "Bullet-Glyph": "\u25aa",
+    "Paragraph-Spacing": 8,
+    "Bullet-Indent": "0.18in",
+    "Min-Lines-With-Heading": 3
+  },
+  "output_section": {
+    "Size": 13,
+    "Text-Color": "#E7E6E6",
+    "Background-Color": "272727",
+    "Font": "Consolas",
+    "Property": "Regular"
+  }
+}
