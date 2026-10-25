@@ -1,0 +1,55 @@
+ @font-face {
+	 font-family: 'uic';
+	 src: url(' <?php echo get_template_directory_uri();
+	 ?>/assets/poppins.ttf') format('truetype');
+}
+ @font-face {
+	 font-family: 'uicbold';
+	 src: url(' <?php echo get_template_directory_uri();
+	 ?>/assets/bold.ttf') format('truetype');
+}
+ .header {
+	 position: fixed;
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 display: flex;
+	 align-items: center;
+	 justify-content: space-between;
+	 height: 58px;
+	 background-color: #0B1020;
+	 border-bottom: 1px solid rgb(153, 153, 153, 0.2);
+	 padding: 0px 10px;
+	 box-sizing: border-box;
+	 z-index: 1000;
+}
+ .header-heading {
+	 color: white;
+	 font-family: uic;
+	 font-size: 17px;
+	 font-weight: bold;
+}
+ .headermenu {
+	 background-color: white;
+	 position: fixed;
+	 top: 58px;
+	 right: 0;
+	 width: 180px;
+	 z-index: 1001;
+	 padding: 6px 6px 2px 6px;
+	 border-bottom-left-radius: 10px;
+}
+ .headermenuopt {
+	 background-color: #0B1020;
+	 width: 98%;
+	 margin-bottom: 4px;
+	 border-radius: 6px;
+	 padding: 8px;
+	 box-sizing: border-box;
+	 font-family: uicbold;
+	 font-size: 13px;
+	 color: white;
+	 display: flex;
+	 align-items: center;
+	 gap: 5px;
+}

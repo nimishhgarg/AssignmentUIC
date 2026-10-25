@@ -1,0 +1,115 @@
+body {
+	 background-color: #0B1020;
+	 margin: 0;
+}
+ .text-head {
+	 color: white;
+	 font-family: uic;
+	 font-size: 12px;
+	 opacity: 0.6;
+	 margin: 0;
+	 margin-top: 80px;
+	 margin-left: 5%;
+	 margin-right: 5%;
+}
+ .textline {
+	 color: white;
+	 font-family: uic;
+	 font-size: 12px;
+	 opacity: 0.8;
+	 margin: 0;
+	 margin-left: 5%;
+	 margin-right: 5%;
+}
+ h1 {
+	 color: white;
+	 margin: 5px 0px;
+	 font-family: uicbold;
+	 font-size: 38px;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 font-weight: bolder;
+	 line-height: 1.2;
+}
+ .box {
+	 background-color: #F5EEFF;
+	 margin: 0px auto;
+	 display: flex;
+	 width: 90%;
+	 align-items: center;
+	 justify-content: center;
+	 padding: 8px;
+	 box-sizing: border-box;
+	 border-radius: 10px;
+	 margin-top: 12px;
+	 height: 95px;
+}
+ .box-head {
+	 color: #0B1020;
+	 font-family: uicbold;
+	 line-height: 1.2;
+	 margin: 0;
+	 font-size: 16px;
+	 font-weight: bolder;
+}
+ .box-body {
+	 color: #888888;
+	 font-family: uic;
+	 font-weight: 800;
+	 line-height: 1.2;
+	 margin: 0;
+	 font-size: 11px;
+	 margin-top: 2px;
+}
+ .worksheet {
+	 background-color: #FFFBEB;
+	 width: 94%;
+	 margin: 0 3%;
+	 box-sizing: border-box;
+	 margin-top: 16px;
+	 border-top-left-radius: 10px;
+	 border-top-right-radius: 10px;
+}
+ .worksheet-head {
+	 display: flex;
+	 border-bottom: 1px solid #999;
+	 width: 100%;
+	 align-items: center;
+	 justify-content: space-between;
+	 padding: 8px 12px;
+	 box-sizing: border-box;
+}
+ .worksheet-heading {
+	 font-size: 15px;
+	 color: #0B1020;
+	 font-family: uicbold;
+	 margin: 0;
+}
+ .worksheet-body {
+	 display: flex;
+	 background-color: white;
+	 border-bottom: 1px solid #999;
+	 width: 100%;
+	 align-items: center;
+	 justify-content: space-between;
+	 padding: 8px 12px;
+	 box-sizing: border-box;
+}
+ .worksheet-img {
+	 background-color: #FEECEC;
+	 width: fit-content;
+	 padding: 7px;
+	 border-radius: 10px;
+}
+ .worksheet-body-head {
+	 font-family: uicbold;
+	 font-size: 13px;
+	 font-weight: normal;
+	 margin: 0;
+}
+ .worksheet-body-body {
+	 font-family: uic;
+	 font-size: 10px;
+	 margin: 0;
+	 color: #888888;
+}

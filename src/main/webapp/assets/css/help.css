@@ -1,0 +1,27 @@
+body {
+	 background-color: #f6f6f6;
+	 margin: 0;
+}
+ .back {
+	 display: flex;
+	 align-items: center;
+	 margin-top: 80px;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 width: fit-content;
+}
+ .home-img {
+	 width: 30px;
+	 height: 30px;
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+	 background-color: rgb(189, 189, 189, 0.3);
+	 border-radius: 100%;
+}
+.back-text {
+	 color: #888888;
+	 font-family: uic;
+	 font-size: 15px;
+	 margin: 0;
+}
